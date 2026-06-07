@@ -40,3 +40,4 @@
    36  git add git_commands.txt  added to stage
    37  git commit -m"modify commands" added to trecked 
    38  git push origin master      send modification sink to remote github
+   39 thischange is done at github
