@@ -20,3 +20,15 @@
    20  git status
    21  git restore testing.py
    22  git status
+    19  git remote -v
+   20  git push origin master
+   21  cd ..
+   22  mkdir new-folder
+   23  cd new-folder
+   24  ls
+   25  git clone 
+   26  ls
+   27  cd ..
+   28  ls
+   29  history
+   30  my new file added dr malik
