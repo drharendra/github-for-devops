@@ -32,3 +32,11 @@
    28  ls
    29  history
    30  my new file added dr malik
+    31  cd github-for-devops
+   32  git push origin master
+   33  ls
+   34  git status
+   35  git add gir_commands.txt
+   36  git add git_commands.txt  added to stage
+   37  git commit -m"modify commands" added to trecked 
+   38  git push origin master      send modification sink to remote github
